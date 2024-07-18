@@ -13,3 +13,7 @@
 </div>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anawk&hide_progress=true)
+
+## Conecte-se comigo
+- [LinkedIn](https://www.linkedin.com/in/anamaria-costalima/)
+- [Email](mailto:anamariacostalima60@gmail.com)
