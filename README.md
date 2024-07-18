@@ -1,7 +1,7 @@
-</h1>
-  <p align="center">
+
+  <h1 align="center">
    Olá, eu sou a Ana Maria
-  </p>
+  </h1>
   
 <div align="center">
   <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center;">
