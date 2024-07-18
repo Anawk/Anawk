@@ -21,7 +21,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anawk&show_icons=true" alt="GitHub Stats" />
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Anawk=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 </p>
 
 <p align="center">
