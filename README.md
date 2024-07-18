@@ -1,19 +1,23 @@
 ### Olá eu sou a Ana Maria 👋
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/ana-maria-costa-lima-318822211)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Anawk&label=Profile%20views&color=0e75b6&style=flat" alt="Anawk" /> </p>
 
-![Anawk GitHub stats](https://github-readme-stats.vercel.app/api?username=Anawk&show_icons=true&theme=dracula)
+<h3 align="left">Fale Comigo:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/[https://www.linkedin.com/in/anamaria-costalima/]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/anamaria-costalima/" height="30" width="40" /></a>
+</p>
 
-### Tecnologias que uso
-<div style= "display: inline_block"><br/>
-  <img align = "center" alt= "html5" src= "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img align = "center" alt= "css" src= "https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
-  <img align = "center" alt= "c" src= "https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img align = "center" alt= "java" src= "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-</div>
+<h3 align="left">Linguagens que Uso:</h3>
+<p align="left">
+<a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
+<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anawk&hide_progress=true)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Anawk&show_icons=true&locale=en&layout=compact" alt="Anawk" /></p>
 
-## Conecte-se comigo
-- [LinkedIn](https://www.linkedin.com/in/anamaria-costalima/)
-- [Email](mailto:anamariacostalima60@gmail.com)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Anawk&show_icons=true&locale=en" alt="Anawk" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Anawk&" alt="Anawk" /></p>
